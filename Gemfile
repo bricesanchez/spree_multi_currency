@@ -2,8 +2,7 @@ source 'http://rubygems.org'
 gem 'spree', git: 'git@github.com:spree/spree.git', branch: '2-0-stable'
 gemspec
 
-#gem 'spree', :github => "spree/spree"
-gem 'spree', '~> 2.0.0'
+
 
 gem 'pry-rails'
 
